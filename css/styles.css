@@ -1,0 +1,22 @@
+body {
+  background-color: floralwhite;
+}
+
+hr   {
+  width: 80%;
+}
+
+h1   {
+  color:green;
+}
+
+h3   {
+  color: purple;
+}
+
+img   {
+  height: 400px;
+  width: 400px;
+  float: right;
+  border: 50px;
+}
